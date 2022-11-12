@@ -9,7 +9,7 @@ The purpose of this project is to create a program which can detect the student 
 * [References](#references)
 
 ## General Info
-The algorithm behind it is implemented using Python.
+The algorithm behind is implemented using Python.
 </br>
 This project contains 5 files:
 * An excel file containing answers. Each worksheet is equivalent to the answers of a problem code. A, B, C, D are referred to as 0, 1, 2, 3 in the file respectively.
@@ -27,7 +27,7 @@ This project contains 5 files:
 * Pandas Library 1.x
 
 ## Algorithm Implementation
-For a more exhaustive explanation, please read my report (written in Vietnamese).
+For a more exhaustive explanation, please read my report (written in Vietnamese) or the references.
 
 ## References
 1. https://pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
