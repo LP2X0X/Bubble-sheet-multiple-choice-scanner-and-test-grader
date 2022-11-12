@@ -31,12 +31,14 @@ This project contains 5 files:
 For a more exhaustive explanation, please read my report (written in Vietnamese) or the references.
 
 ## Result
-## Original Test Sheet
+### Original Test Sheet
 <img src="https://github.com/LP2X0X/Multiple-choice-scanner-and-test-grader/blob/main/form.png" alt="Original" width="700"/>
 
-## Input Image
+### Input Image
+<img src="https://github.com/LP2X0X/Multiple-choice-scanner-and-test-grader/blob/main/input.png" alt="Input" width="700"/>
 
-## Output Image
+### Output Image
+<img src="https://github.com/LP2X0X/Multiple-choice-scanner-and-test-grader/blob/main/output.png" alt="output" width="700"/>
 
 ## References
 1. https://pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
