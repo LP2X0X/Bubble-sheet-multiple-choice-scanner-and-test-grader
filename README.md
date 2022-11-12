@@ -6,6 +6,7 @@ The purpose of this project is to create a program which can detect the student 
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Algorithm Implementation](#algorithm-implementation)
+* [Result](#result)
 * [References](#references)
 
 ## General Info
@@ -28,6 +29,14 @@ This project contains 5 files:
 
 ## Algorithm Implementation
 For a more exhaustive explanation, please read my report (written in Vietnamese) or the references.
+
+## Result
+## Original Test Sheet
+<img src="https://github.com/LP2X0X/Multiple-choice-scanner-and-test-grader/blob/main/form.png" alt="Original" width="700"/>
+
+## Input Image
+
+## Output Image
 
 ## References
 1. https://pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
